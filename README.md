@@ -57,6 +57,9 @@ By leveraging tools like **Yosys**, **OpenLane**, and **Magic**, and contributin
 
 🙏 Acknowledgment:
 Special thanks to Kunal Ghosh and the VLSI System Design (VSD) team for this learning opportunity.
+Organization Info-
+* 🐱 GitHub: [https://github.com/kunalg123]
+* 🌐 Website:[https://vsdiat.vlsisystemdesign.com/]
 
 📅 Weekly Progress Tracker:
 ✅ Week 0: Tools Setup
