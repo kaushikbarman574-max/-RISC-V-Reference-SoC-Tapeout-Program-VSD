@@ -65,7 +65,7 @@ Special thanks to Kunal Ghosh and the VLSI System Design (VSD) team for this lea
 
  📬 Connect with Me:
 * 🔗 LinkedIn: \[https://www.linkedin.com/in/kaushik-barman-5b03b02a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-* 🐱 GitHub: [https://github.com/yourusername](https://github.com/kaushikbarman574-max)
+* 🐱 GitHub: [https://github.com/kaushikbarman574-max]
 
 ⭐ If you found this project helpful or inspiring, consider giving it a star!
 
